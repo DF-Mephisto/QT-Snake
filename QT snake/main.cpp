@@ -2,6 +2,10 @@
 #include "defines.h"
 #include <QtWidgets>
 
+//********************
+// SNAKE BY MEPHISTO
+//********************
+
 int main(int argc, char *argv[])
 {
 	QStringList paths = QCoreApplication::libraryPaths();
