@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/QTsnake">
+        <file alias="sp">F:/space.jpg</file>
+        <file alias="go">F:/gameover.jpg</file>
+        <file alias="audio">F:/GameAudio.mp3</file>
+    </qresource>
+</RCC>
